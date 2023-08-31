@@ -18,6 +18,7 @@ class ViewController: UIViewController, UISearchResultsUpdating {
         view.addSubview (mapView)
         navigationItem.searchController = searchVC
         searchVC.searchResultsUpdater = self
+        //gfyujhwagfygfeuwygveyfg
     }
     
     override func viewDidLayoutSubviews() {
